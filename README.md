@@ -1,6 +1,6 @@
 # TuneSuggest
 
-TuneSuggest is a web application powered by Streamlit that leverages the Spotify API to recommend music based on user-selected songs. Whether you're exploring new tracks or building your personalized playlist, TuneSuggest helps you discover music that resonates with your tastes.
+TuneSuggest is a web application powered by Streamlit that provides personalized music recommendations based on user-selected songs. It allows users to manually select a list of their favorite tracks and generates tailored recommendations using K-Means clustering.
 
 ## Features
 
@@ -18,6 +18,7 @@ TuneSuggest is a web application powered by Streamlit that leverages the Spotify
 
 - **Streamlit**: For creating the interactive web application.
 - **Python Libraries**: Pandas, NumPy, Spotipy, Plotly, Scikit-learn, and others for data manipulation, visualization, and machine learning.
+- **ML Model**: K-Means
 
 ## Dataset
 
